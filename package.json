@@ -4,7 +4,7 @@
   },
   "devDependencies": {
     "@babel/generator": "^7.4.4",
-    "acorn": "^6.1.1",
+    "acorn": "^6.4.1",
     "escodegen": "^1.11.1",
     "terser": "^4.0.0"
   }
